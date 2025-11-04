@@ -1,17 +1,3 @@
-### ** BI Visualisations:**
-
-1) Tableau Employees [M Vs F] SQL+Tableau Integration (Bar Chart 1)
-Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationBarChart1/BarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-2) Tableau Employees [M Vs F] SQL+Tableau Integration (Area Chart)
-Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationAreaChart_17598484684230/AreaChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-3) Tableau Employees [M Vs F] SQL+Tableau Integration (Line Chart)
-Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationLineChart/LineChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-4) Tableau Employees [M Vs F] SQL+Tableau Integration (Bar Chart 2)
-Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationBarChart2/BarChart2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-5) Tableau Employees [M Vs F] SQL+Tableau Integration (Dashboard)
-Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
 
 ## 📊 **Employee Gender and Salary Analysis Dashboard**
 
@@ -64,3 +50,16 @@ Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegra
 * Salary equity is well-maintained across departments, showing organizational fairness and balanced compensation strategies.
 
 ---
+
+### ** BI Visualisations:**
+
+1) Tableau Employees [M Vs F] SQL+Tableau Integration (Bar Chart 1)
+Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationBarChart1/BarChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+2) Tableau Employees [M Vs F] SQL+Tableau Integration (Area Chart)
+Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationAreaChart_17598484684230/AreaChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+3) Tableau Employees [M Vs F] SQL+Tableau Integration (Line Chart)
+Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationLineChart/LineChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+4) Tableau Employees [M Vs F] SQL+Tableau Integration (Bar Chart 2)
+Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationBarChart2/BarChart2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+5) Tableau Employees [M Vs F] SQL+Tableau Integration (Dashboard)
+Tableau Public: (https://public.tableau.com/views/EmployeesMVsFSQLTableauIntegrationDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
